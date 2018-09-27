@@ -1,0 +1,5 @@
+Current Bugs
+
+1) Asking for help
+
+When selecting one of the options displayed when asking for help, the bot returns a fallback saying it doesnt understand what you're saying.
